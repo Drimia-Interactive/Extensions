@@ -6,7 +6,7 @@
     "description": "The collection of all Drimia Interactive's extensions.",
     "keywords": ["Drimia", "Interactive", "collection", "extensions"],
     "dependencies": {
-		"com.drimiainteractive.rtl-helper-system": "https://github.com/Drimia-Interactive/RTL-helper-system#master",
+		"com.drimiainteractive.rtl-helper-system": "https://github.com/Drimia-Interactive/RTL-helper-system#master"
     },
     "author": {
 		"name": "Omer Zadok",
